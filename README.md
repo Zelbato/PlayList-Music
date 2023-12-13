@@ -1,2 +1,3 @@
 # PlayList Music
- Sistemas de Musicas
+Projeto onde foi desenvolvio um sistema de 
+PlayList de Musicas 
