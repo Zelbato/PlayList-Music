@@ -11,9 +11,8 @@ const cover = document.getElementById('cover');
 
 
 // Song titles
-const songs = ['Shingeki no Kyojin', 'Renasci das cinzas', 'Unholy', 'MONTERO', 'Mysterious Island',
- 'Treat You Better', 'Attack on Titan', 'Go Crazy', 'Bruno Gadiol - Anestesiado', 'eminem e post-malone',
-  'West Coast','The Eminence in Shadow','Roots', 'Love', 'Hear Me', 'Battle Cry',
+const songs = ['Treat You Better','Go Crazy','eminem e post-malone',
+  'West Coast','Roots', 'Love', 'Hear Me', 'Battle Cry',
    'Sharks','Children of the Sky', 'Natural', 'Motley Crew', 'Under The Influence'];
 
 // Keep track of song
